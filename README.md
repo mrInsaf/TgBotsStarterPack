@@ -6,7 +6,7 @@
 Сначала склонируйте репозиторий на локальную машину:
 
 ```bash
-https://github.com/mrInsaf/TgBotsStarterPack.git
+git clone https://github.com/mrInsaf/TgBotsStarterPack.git
 cd TgBotsStarterPack
 ```
 
