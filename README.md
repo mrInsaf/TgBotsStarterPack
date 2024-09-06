@@ -7,7 +7,6 @@
 
 ```bash
 git clone https://github.com/mrInsaf/TgBotsStarterPack.git
-cd TgBotsStarterPack
 ```
 
 ### 2. Создание и активация виртуального окружения (опционально):
